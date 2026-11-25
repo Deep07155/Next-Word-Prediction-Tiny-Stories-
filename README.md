@@ -1,6 +1,8 @@
 # ✦ TaleCraft — TinyStories LSTM Story Studio
 
-A polished **dark/light Streamlit website** for your TinyStories **PyTorch next-word prediction LSTM**. Train on **Kaggle** and deploy the frontend on **Streamlit Community Cloud**. No FastAPI or paid AI API is needed.
+A polished **dark/light Streamlit website** for your TinyStories **PyTorch next-word prediction LSTM**. Train on **Kaggle** and deploy the frontend on **Streamlit Community Cloud**.
+
+## LIVE APP - https://next-word-prediction-tinystories.streamlit.app/
 
 ## Features
 
@@ -49,7 +51,7 @@ TinyStories_TaleCraft_Streamlit/
 
 ## Step 2 — Run on your Windows laptop (VS Code)
 
-Use **Python 3.11** for consistent deployment with the supplied CPU-only PyTorch dependency.
+Use **Python 3.12** for consistent deployment with the supplied CPU-only PyTorch dependency.
 
 From the project folder:
 
