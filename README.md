@@ -2,7 +2,9 @@
 
 A polished **dark/light Streamlit website** for your TinyStories **PyTorch next-word prediction LSTM**. Train on **Kaggle** and deploy the frontend on **Streamlit Community Cloud**.
 
+
 ## LIVE APP - https://next-word-prediction-tinystories.streamlit.app/
+
 
 ## Features
 
