@@ -1,0 +1,7 @@
+Download trained_model_files.zip from Kaggle output and extract these THREE files into this folder:
+
+best_lstm.pth     (model.state_dict(), trained weights)
+tokenizer.json    (Hugging Face Tokenizer)
+config.json       (architecture settings, including num_layers and seq_len)
+
+Do not rename files or upload your training dataset.
